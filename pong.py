@@ -1,0 +1,1 @@
+I want a scoreboard at the very top and I want it so one gets to 10 points that person wins and the other loses and so it restarts
